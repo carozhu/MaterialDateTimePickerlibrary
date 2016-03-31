@@ -1,0 +1,463 @@
+[
+    {
+        "outputFile": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/release/values-ka-rGE/values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 108,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 103,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 103,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 110,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 110,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 87,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 87,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 104,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 104,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 112,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 112,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 112,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 112,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 106,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 106,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 97,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 97,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 112,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 112,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 103,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 103,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 103,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endColumn": 103,
+                        "endOffset": 1559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 121,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1564,
+                        "endColumn": 121,
+                        "endOffset": 1681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endColumn": 104,
+                    "endOffset": 1596
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1302,
+                        "endColumn": 104,
+                        "endOffset": 1402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1601,
+                    "endColumn": 111,
+                    "endOffset": 1708
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1810,
+                        "endColumn": 115,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1713,
+                    "endColumn": 82,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 82,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 111,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 111,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 118,
+                    "endOffset": 2022
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1687,
+                        "endColumn": 122,
+                        "endOffset": 1805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2027,
+                    "endColumn": 112,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 112,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 95,
+                    "endOffset": 2231
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 95,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2236,
+                    "endColumn": 91,
+                    "endOffset": 2323
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 91,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2328,
+                    "endColumn": 92,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endColumn": 92,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 87,
+                    "endOffset": 2504
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 87,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2509,
+                    "endColumn": 95,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/values-ka-rGE/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1407,
+                        "endColumn": 95,
+                        "endOffset": 1498
+                    }
+                }
+            }
+        ]
+    }
+]

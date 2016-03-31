@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/debug/layout-sw600dp-v13/layout_snackbar.xml",
+        "source": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout-sw600dp/layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/debug/layout-sw600dp-v13/mdtp_date_picker_dialog.xml",
+        "source": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/layout-sw600dp/mdtp_date_picker_dialog.xml"
+    }
+]

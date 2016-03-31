@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/release/drawable-v21/mdtp_material_button_selected.xml",
+        "source": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/drawable-v21/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/release/drawable-v21/mdtp_material_button_background.xml",
+        "source": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/drawable-v21/mdtp_material_button_background.xml"
+    }
+]

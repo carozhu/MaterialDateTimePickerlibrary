@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/release/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/drawable-land/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/build/intermediates/res/merged/release/drawable-land/mdtp_done_background_color.xml",
+        "source": "/Users/caro/AndroidStudioProjects/android/YoukeApplication/MaterialDateTimePickerlibrary/src/main/res/drawable-land/mdtp_done_background_color.xml"
+    }
+]
